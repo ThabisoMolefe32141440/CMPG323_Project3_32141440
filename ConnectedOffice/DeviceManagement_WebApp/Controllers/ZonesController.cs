@@ -25,10 +25,7 @@ namespace DeviceManagement_WebApp.Controllers
         {
             return View(_zoneRepository.GetAll());
         }
-        public ZonesController(ConnectedOfficeContext context)
-        {
-            _context = context;
-        }
+       
 
        
 

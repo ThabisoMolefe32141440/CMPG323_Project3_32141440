@@ -26,10 +26,7 @@ namespace DeviceManagement_WebApp.Controllers
             return View(_categoryRepository.GetAll());
         }
 
-        public CategoriesController(ConnectedOfficeContext context)
-        {
-            _context = context;
-        }
+       
 
       
 
