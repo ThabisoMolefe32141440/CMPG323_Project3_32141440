@@ -25,8 +25,13 @@ namespace DeviceManagement_WebApp.Controllers
         {
             return View(_deviceRepository.GetAll());
         }
+        public DevicesController(ConnectedOfficeContext context)
+        {
+            _context = context;
+        }
 
-        
+       
+
         // GET: Devices/Details/5
         public async Task<IActionResult> Details(Guid? id)
         {

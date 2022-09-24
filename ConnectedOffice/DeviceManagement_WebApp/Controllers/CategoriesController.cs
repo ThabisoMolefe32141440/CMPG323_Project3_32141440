@@ -20,13 +20,16 @@ namespace DeviceManagement_WebApp.Controllers
             _categoryRepository = categoryRepository;
         }
 
-        // GET: Category
+        // GET: Services
         public async Task<IActionResult> Index()
         {
             return View(_categoryRepository.GetAll());
         }
 
-       
+        public CategoriesController(ConnectedOfficeContext context)
+        {
+            _context = context;
+        }
 
       
 
