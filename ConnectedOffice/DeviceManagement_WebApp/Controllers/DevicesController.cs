@@ -15,9 +15,10 @@ namespace DeviceManagement_WebApp.Controllers
     {
         private readonly ConnectedOfficeContext _context;
         private readonly IDeviceRepository _deviceRepository;
-        public DevicesController(IDeviceRepository deviceRepository)
+        public DevicesController(IDeviceRepository deviceRepository, ConnectedOfficeContext context)
         {
             _deviceRepository = deviceRepository;
+            _context= context;
         }
 
         // GET: Device
@@ -25,10 +26,7 @@ namespace DeviceManagement_WebApp.Controllers
         {
             return View(_deviceRepository.GetAll());
         }
-        public DevicesController(ConnectedOfficeContext context)
-        {
-            _context = context;
-        }
+       
 
        
 
