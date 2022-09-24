@@ -15,9 +15,10 @@ namespace DeviceManagement_WebApp.Controllers
     {
         private readonly ConnectedOfficeContext _context;
         private readonly IZoneRepository _zoneRepository;
-        public ZonesController(IZoneRepository zoneRepository)
+        public ZonesController(IZoneRepository zoneRepository , ConnectedOfficeContext context)
         {
             _zoneRepository = zoneRepository;
+            _context = context;
         }
 
         // GET: Zone
@@ -25,10 +26,8 @@ namespace DeviceManagement_WebApp.Controllers
         {
             return View(_zoneRepository.GetAll());
         }
-        public ZonesController(ConnectedOfficeContext context)
-        {
-            _context = context;
-        }
+        
+       
 
        
 
