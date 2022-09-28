@@ -66,7 +66,7 @@ namespace DeviceManagement_WebApp.Controllers
         public async Task<IActionResult> Create([Bind("DeviceId,DeviceName,CategoryId,ZoneId,Status,IsActive,DateCreated")] Device device)
         {
             device.DeviceId = Guid.NewGuid();
-            _context.Add(device);
+            _deviceRepository.Add(device);
             await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
 

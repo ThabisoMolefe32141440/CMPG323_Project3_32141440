@@ -10,6 +10,7 @@ namespace DeviceManagement_WebApp.Repository
         {
         }
 
+        //Method Get most recent Zone in the database
         public Zone GetMostRecentZone()
         {
             return _context.Zone.OrderByDescending(zone => zone.DateCreated).FirstOrDefault();

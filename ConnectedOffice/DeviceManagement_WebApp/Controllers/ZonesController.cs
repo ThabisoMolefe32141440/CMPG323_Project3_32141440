@@ -63,7 +63,7 @@ namespace DeviceManagement_WebApp.Controllers
         public async Task<IActionResult> Create([Bind("ZoneId,ZoneName,ZoneDescription,DateCreated")] Zone zone)
         {
             zone.ZoneId = Guid.NewGuid();
-            _context.Add(zone);
+            _zoneRepository.Add(zone);
             await _context.SaveChangesAsync();
 
             return RedirectToAction(nameof(Index));

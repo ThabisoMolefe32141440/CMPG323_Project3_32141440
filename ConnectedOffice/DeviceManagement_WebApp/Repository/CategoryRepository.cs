@@ -9,7 +9,7 @@ namespace DeviceManagement_WebApp.Repository
         public CategoryRepository(ConnectedOfficeContext context) : base(context)
         {
         }
-
+         //Method Get most recent category in the database
         public Category GetMostRecentCategory()
         {
             return _context.Category.OrderByDescending(category => category.DateCreated).FirstOrDefault();

@@ -10,6 +10,7 @@ namespace DeviceManagement_WebApp.Repository
         {
         }
 
+        //Method Get most recent Device in the database
         public Device GetMostRecentDevice()
         {
             return _context.Device.OrderByDescending(device => device.DateCreated).FirstOrDefault();
