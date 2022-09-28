@@ -10,13 +10,11 @@
    -Click on it and a new page will open where you can delete ,update and create new data in the Category database
     Create new data:
     - Click on the plus sign
-    
     Delete items:
     -Click on the  trash sysmbol on the right hand side of the page
     Edit data:
     -Click on the edit symbol on the right hand side of the page.
-    
-     To adit Device:
+    To adit Device:
    -Click on it and a new page will open where you can delete ,update and create new data in the Category database
     Create new data:
     - Click on the plus sign
@@ -25,8 +23,7 @@
     -Click on the  trash sysmbol on the right hand side of the page
     Edit data:
     -Click on the edit symbol on the right hand side of the page.
-    
-     To adit Zone:
+    To adit Zone:
    -Click on it and a new page will open where you can delete ,update and create new data in the Category database
     Create new data:
     - Click on the plus sign
