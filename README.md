@@ -19,16 +19,20 @@
    To Delete items in the category table:
     -Click on the  trash sysmbol on the right hand side of the page
     
-   To Edit data in the category table:
-    -Click on the edit symbol on the right hand side of the page.
-   To adit Device data in the device database:
-   -Click on it and a new page will open where you can delete ,update and create new data in the Category database
-    Create new data in the device database:
+   To update data in the category table:
+    -Click on the update symbol on the right hand side of the page.
+    
+   To edit the device model ,click on it and the following page will open were you will be able to edit data in the device database
+    ![Device](https://user-images.githubusercontent.com/110165029/193032915-87f829f3-ea8e-47db-b03d-227c5ebc42bd.PNG)
+  
+   To edit Device data in the device database:
+    -Click on it and a new page will open where you can delete ,update and create new data in the Category database
+   To Create new data in the device database:
     - Click on the plus sign
-   Delete items in the device database:
+   To Delete items in the device database:
     -Click on the  trash sysmbol on the right hand side of the page
-    Edit data:
-    -Click on the edit symbol on the right hand side of the page.
+   To Update data in the device data:
+    -Click on the update symbol on the right hand side of the page.
     To adit Zone:
    -Click on it and a new page will open where you can delete ,update and create new data in the Category database
     Create new data:
