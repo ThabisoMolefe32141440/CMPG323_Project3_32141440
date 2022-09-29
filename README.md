@@ -1,6 +1,7 @@
 # CMPG323_Project3_32141440
 ## How to use the report
-   The created report can be used to maintain and monitor data in the category, zone and device database.
+   The created report can be used to maintain and monitor data in the category, zone and device database.When opening the report it will take you to the first page
+   ![Homepage](https://user-images.githubusercontent.com/110165029/193030178-ba40bc1f-4b07-4b58-8f98-a97e255a90d2.PNG)
    To use the report firstly you have to register with the system.To register you must create a username and a password.
    Once you a registered, you can now login with your credentials.
    After logging in,the A new page will open.The page will have 3 models namely category , zone and device.You can view or edit the models.
