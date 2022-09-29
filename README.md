@@ -40,15 +40,18 @@
     -Click on the update symbol on the right hand side of the page.
   
   To edit the device model ,click on it and the following page will open were you will be able to edit data in the device database
- 
+   ![Zone](https://user-images.githubusercontent.com/110165029/193035768-4101c646-e725-4e06-ba81-6c6b23fad9da.PNG)
+   
   To adit Zone:
    -Click on it and a new page will open where you can delete ,update and create new data in the Category database
-    Create new data:
+    
+  To Create new data in the zone database:
     - Click on the plus sign
-    -
-    Delete items:
+    
+  To Delete items in the zone database:
     -Click on the  trash sysmbol on the right hand side of the page
-    Edit data:
+   
+   To Edit data in the zone database:
     -Click on the edit symbol on the right hand side of the page.
    
    
