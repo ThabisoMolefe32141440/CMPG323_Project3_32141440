@@ -10,9 +10,11 @@
    ![Afterloginpage](https://user-images.githubusercontent.com/110165029/193031445-997f50ae-815d-49a7-a3cd-6e7d5880c096.PNG)
    To edit the models, you can click on it and a new web page will open were you either chose to delete, upadate or create 
    new data for that model. 
+   
    To adit Category:
    -Click on it and a new page will open where you can delete ,update and create new data in the Category database
    ![Category](https://user-images.githubusercontent.com/110165029/193031944-138bf8f8-2c71-4f68-b31f-a1037a1c8e77.PNG)
+   
    To Create new data in the category database:
     - Click on the plus sign
     
@@ -27,11 +29,14 @@
   
    To edit Device data in the device database:
     -Click on it and a new page will open where you can delete ,update and create new data in the Category database
+   
    To Create new data in the device database:
     - Click on the plus sign
-   To Delete items in the device database:
+  
+  To Delete items in the device database:
     -Click on the  trash sysmbol on the right hand side of the page
-   To Update data in the device data:
+  
+  To Update data in the device data:
     -Click on the update symbol on the right hand side of the page.
     To adit Zone:
    -Click on it and a new page will open where you can delete ,update and create new data in the Category database
