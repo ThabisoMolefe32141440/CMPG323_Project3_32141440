@@ -38,7 +38,10 @@
   
   To Update data in the device data:
     -Click on the update symbol on the right hand side of the page.
-    To adit Zone:
+  
+  To edit the device model ,click on it and the following page will open were you will be able to edit data in the device database
+ 
+  To adit Zone:
    -Click on it and a new page will open where you can delete ,update and create new data in the Category database
     Create new data:
     - Click on the plus sign
