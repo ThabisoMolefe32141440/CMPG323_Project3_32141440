@@ -12,18 +12,20 @@
    new data for that model. 
    To adit Category:
    -Click on it and a new page will open where you can delete ,update and create new data in the Category database
-    Create new data:
+   ![Category](https://user-images.githubusercontent.com/110165029/193031944-138bf8f8-2c71-4f68-b31f-a1037a1c8e77.PNG)
+   To Create new data in the category database:
     - Click on the plus sign
-    Delete items:
+    
+   To Delete items in the category table:
     -Click on the  trash sysmbol on the right hand side of the page
-    Edit data:
+    
+   To Edit data in the category table:
     -Click on the edit symbol on the right hand side of the page.
-    To adit Device:
+   To adit Device data in the device database:
    -Click on it and a new page will open where you can delete ,update and create new data in the Category database
-    Create new data:
+    Create new data in the device database:
     - Click on the plus sign
-    -
-    Delete items:
+   Delete items in the device database:
     -Click on the  trash sysmbol on the right hand side of the page
     Edit data:
     -Click on the edit symbol on the right hand side of the page.
