@@ -6,7 +6,8 @@
    ![Register](https://user-images.githubusercontent.com/110165029/193030717-cf3bb742-9be5-476f-8936-9d040714f2c1.PNG)
    Once you a registered, you can now login with your credentials.
    ![LoginPage](https://user-images.githubusercontent.com/110165029/193031173-83bf9d00-3142-4a3a-81dd-df895a8a070f.PNG)
-   After logging in,the A new page will open.The page will have 3 models namely category , zone and device.You can view or edit the models.
+   After logging in,A new page will open.The page will have 3 models namely category , zone and device.You can view or edit the models.
+   ![Afterloginpage](https://user-images.githubusercontent.com/110165029/193031445-997f50ae-815d-49a7-a3cd-6e7d5880c096.PNG)
    To edit the models, you can click on it and a new web page will open were you either chose to delete, upadate or create 
    new data for that model. 
    To adit Category:
