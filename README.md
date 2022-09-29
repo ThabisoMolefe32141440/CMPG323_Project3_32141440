@@ -5,6 +5,7 @@
    To use the report firstly you have to register with the system.To register you must create a email address and a password.
    ![Register](https://user-images.githubusercontent.com/110165029/193030717-cf3bb742-9be5-476f-8936-9d040714f2c1.PNG)
    Once you a registered, you can now login with your credentials.
+   ![LoginPage](https://user-images.githubusercontent.com/110165029/193031173-83bf9d00-3142-4a3a-81dd-df895a8a070f.PNG)
    After logging in,the A new page will open.The page will have 3 models namely category , zone and device.You can view or edit the models.
    To edit the models, you can click on it and a new web page will open were you either chose to delete, upadate or create 
    new data for that model. 
